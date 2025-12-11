@@ -1,0 +1,43 @@
+sku,product_id,handle,title,orders,inventory,is_active,seo_score,recommend,your_decision
+0,15509974024579,led-headtorch-xtara®-warboy,MTB Night Light LED Headtorch - Xtar‚® Warboy,no,0,yes,0,KEEP,KEEP
+0,15512670470531,mtb-night-light-xtar®-darkwalker,MTB Night Light LED Handlebar Xtar® Darkwalker,no,0,yes,0,DELETE,KEEP
+M04SHIM,9302368944288,brake-pads-shimano-br-m315-m355-m365-m375-m395-m415-m416-m416a,Shimano B05S M05 B03S B01S Brake Pads | North Degree Tech,yes,2910,yes,0,KEEP,KEEP
+M04SHIM,9324904579232,shimano-deore-brake-pads,Shimano Deore Brake Pads | North Degree Tech,yes,1156,yes,0,DELETE,KEEP
+M04SHIM,9324965953696,tektro-brake-pads-north-degree-tech,Tektro Brake Pads | North Degree Tech,yes,1161,yes,0,DELETE,KEEP
+M04SHIM,9325016613024,giant-mph-brake-pads-north-degree-tech,Giant MPH Brake Pads | North Degree Tech,yes,1196,yes,0,DELETE,KEEP
+M04SHIM,9325030047904,quad-brake-pads-north-degree-tech,Quad Brake Pads | North Degree Tech,no,1200,yes,0,DELETE,KEEP
+M04SHIM,9325044760736,trp-brake-pads-north-degree-tech,TRP Brake Pads | North Degree Tech,yes,1117,yes,0,DELETE,KEEP
+M04SHIM,9325059899552,rst-d-power-brake-pads-north-degree-tech,RST D-Power Brake Pads | North Degree Tech,no,1200,yes,0,DELETE,KEEP
+M04SHIM,11474872008864,north-degree-tech-bicycle-brake-pads,North Degree Tech Bicycle Brake Pads | All Makes & Models,yes,847,yes,0,DELETE,KEEP
+M04SHIM,13479107985568,trp-spyre-brake-pads-north-degree-tech,TRP Spyre Brake Pads | North Degree Tech,yes,953,yes,0,DELETE,KEEP
+M04SHIM,13479186366624,shimano-b01s-brake-pads-north-degree-tech,Shimano B01S Brake Pads | North Degree Tech,yes,1976,yes,0,DELETE,KEEP
+C04SHIM,9302368944288,brake-pads-shimano-br-m315-m355-m365-m375-m395-m415-m416-m416a,Shimano B05S M05 B03S B01S Brake Pads | North Degree Tech,yes,2910,yes,0,KEEP,KEEP
+C04SHIM,9324904579232,shimano-deore-brake-pads,Shimano Deore Brake Pads | North Degree Tech,yes,1156,yes,0,DELETE,KEEP
+C04SHIM,9324965953696,tektro-brake-pads-north-degree-tech,Tektro Brake Pads | North Degree Tech,yes,1161,yes,0,DELETE,KEEP
+C04SHIM,9325016613024,giant-mph-brake-pads-north-degree-tech,Giant MPH Brake Pads | North Degree Tech,yes,1196,yes,0,DELETE,KEEP
+C04SHIM,9325030047904,quad-brake-pads-north-degree-tech,Quad Brake Pads | North Degree Tech,no,1200,yes,0,DELETE,KEEP
+C04SHIM,9325044760736,trp-brake-pads-north-degree-tech,TRP Brake Pads | North Degree Tech,yes,1117,yes,0,DELETE,KEEP
+C04SHIM,9325059899552,rst-d-power-brake-pads-north-degree-tech,RST D-Power Brake Pads | North Degree Tech,no,1200,yes,0,DELETE,KEEP
+C04SHIM,11474872008864,north-degree-tech-bicycle-brake-pads,North Degree Tech Bicycle Brake Pads | All Makes & Models,yes,847,yes,0,DELETE,KEEP
+C04SHIM,13479107985568,trp-spyre-brake-pads-north-degree-tech,TRP Spyre Brake Pads | North Degree Tech,yes,953,yes,0,DELETE,KEEP
+C04SHIM,13479186366624,shimano-b01s-brake-pads-north-degree-tech,Shimano B01S Brake Pads | North Degree Tech,yes,1976,yes,0,DELETE,KEEP
+S04SHIM,9302368944288,brake-pads-shimano-br-m315-m355-m365-m375-m395-m415-m416-m416a,Shimano B05S M05 B03S B01S Brake Pads | North Degree Tech,yes,2910,yes,0,KEEP,KEEP
+S04SHIM,9324904579232,shimano-deore-brake-pads,Shimano Deore Brake Pads | North Degree Tech,yes,1156,yes,0,DELETE,KEEP
+S04SHIM,9324965953696,tektro-brake-pads-north-degree-tech,Tektro Brake Pads | North Degree Tech,yes,1161,yes,0,DELETE,KEEP
+S04SHIM,9325016613024,giant-mph-brake-pads-north-degree-tech,Giant MPH Brake Pads | North Degree Tech,yes,1196,yes,0,DELETE,KEEP
+S04SHIM,9325030047904,quad-brake-pads-north-degree-tech,Quad Brake Pads | North Degree Tech,no,1200,yes,0,DELETE,KEEP
+S04SHIM,9325044760736,trp-brake-pads-north-degree-tech,TRP Brake Pads | North Degree Tech,yes,1117,yes,0,DELETE,KEEP
+S04SHIM,9325059899552,rst-d-power-brake-pads-north-degree-tech,RST D-Power Brake Pads | North Degree Tech,no,1200,yes,0,DELETE,KEEP
+S04SHIM,11474872008864,north-degree-tech-bicycle-brake-pads,North Degree Tech Bicycle Brake Pads | All Makes & Models,yes,847,yes,0,DELETE,KEEP
+S04SHIM,13479107985568,trp-spyre-brake-pads-north-degree-tech,TRP Spyre Brake Pads | North Degree Tech,yes,953,yes,0,DELETE,KEEP
+S04SHIM,13479186366624,shimano-b01s-brake-pads-north-degree-tech,Shimano B01S Brake Pads | North Degree Tech,yes,1976,yes,0,DELETE,KEEP
+M21SRAM_BP,9399929274528,sram-guide-brake-pads-north-degree-tech,SRAM Guide Brake Pads | North Degree Tech,yes,0,yes,0,DELETE,KEEP
+M21SRAM_BP,11474872008864,north-degree-tech-bicycle-brake-pads,North Degree Tech Bicycle Brake Pads | All Makes & Models,yes,847,yes,0,KEEP,KEEP
+S21SRAM_BP,9399929274528,sram-guide-brake-pads-north-degree-tech,SRAM Guide Brake Pads | North Degree Tech,yes,0,yes,0,DELETE,KEEP
+S21SRAM_BP,11474872008864,north-degree-tech-bicycle-brake-pads,North Degree Tech Bicycle Brake Pads | All Makes & Models,yes,847,yes,0,KEEP,KEEP
+C21SRAM_BP,9399929274528,sram-guide-brake-pads-north-degree-tech,SRAM Guide Brake Pads | North Degree Tech,yes,0,yes,0,DELETE,KEEP
+C21SRAM_BP,11474872008864,north-degree-tech-bicycle-brake-pads,North Degree Tech Bicycle Brake Pads | All Makes & Models,yes,847,yes,0,KEEP,KEEP
+hs_nukeproof_st,12941446185120,nukeproof-1-1-8-1-5-headset-bearing-kit-blueseal-bike-bearings™,"Nukeproof 1 1/8"" - 1.5"" Headset Bearing Kit | Blueseal Bike Bearings™",yes,2020,yes,0,KEEP,KEEP
+hs_nukeproof_st,15513478398339,nukeproof-1-1-8-1-5-headset-bearing-kit-blueseal-bike-bearings,"Nukeproof 1 1/8"" - 1.5"" Headset Bearing Kit | Blueseal Bike Bearings",no,2020,yes,0,DELETE,DELETE
+hs_nukeproof_bo,12941446185120,nukeproof-1-1-8-1-5-headset-bearing-kit-blueseal-bike-bearings™,"Nukeproof 1 1/8"" - 1.5"" Headset Bearing Kit | Blueseal Bike Bearings™",yes,2020,yes,0,KEEP,KEEP
+hs_nukeproof_bo,15513478398339,nukeproof-1-1-8-1-5-headset-bearing-kit-blueseal-bike-bearings,"Nukeproof 1 1/8"" - 1.5"" Headset Bearing Kit | Blueseal Bike Bearings",no,2020,yes,0,DELETE,DELETE
